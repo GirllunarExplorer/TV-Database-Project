@@ -5,10 +5,10 @@ TV_DB_structure.py creates the initial database.  It takes the folder where all 
 
     python TV_DB_structure.py "/Volumes/video/TV Shows/"
     ...
-    >>> working on  Jonathan Strange & Mr Norrell The Friends Of English Magic Episode 01 from TV show Jonathan Strange & Mr Norrell
-    >>> working on  Jonathan Strange & Mr Norrell How Is Lady Pole Episode 02 from TV show Jonathan Strange & Mr Norrell
-    >>> working on  Jonathan Strange & Mr Norrell The Education of a Magician Episode 03 from TV show Jonathan Strange & Mr Norrell
-    >>> working on  Jonathan Strange & Mr Norrell All The Mirrors Of The World Episode 04 from TV show Jonathan Strange & Mr Norrell
+    >>> working on Episode 01 - The Friends Of English Magic from TV show Jonathan Strange & Mr Norrell
+    >>> working on Episode 02 - How Is Lady Pole Episode 02 from TV show Jonathan Strange & Mr Norrell
+    >>> working on Episode 03 - The Education of a Magician Episode 03 from TV show Jonathan Strange & Mr Norrell
+    >>> working on Episode 04 - All The Mirrors Of The World Episode 04 from TV show Jonathan Strange & Mr Norrell
     ...
 
 TV_Search.py searches through the database and finds mismatches between what TVDB has in their database and what the user has in their folder.
