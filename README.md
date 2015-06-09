@@ -3,7 +3,7 @@ Creates a database of all the shows, seasons and episodes in a folder.  All epis
 
 TV_DB_structure.py creates the initial database.  It takes the folder where all the TV shows are stored as an argument:
 
-   python TV_DB_structure.py "/Volumes/video/TV Shows/"
+    python TV_DB_structure.py "/Volumes/video/TV Shows/"
     ...
     >>> working on  Jonathan Strange & Mr Norrell The Friends Of English Magic Episode 01 from TV show Jonathan Strange & Mr Norrell
     >>> working on  Jonathan Strange & Mr Norrell How Is Lady Pole Episode 02 from TV show Jonathan Strange & Mr Norrell
