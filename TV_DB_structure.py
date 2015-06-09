@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-__author__ = 'tracyrohlin'
+__author__ = 'GirlLunarExplorer'
 
 import argparse, os, sqlite3, re
 
