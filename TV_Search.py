@@ -74,7 +74,7 @@ for show in TV_shows:
 
 
                 else:
-                    print "There are no differences."
+                    print "You have all current episodes"
 
                 print "FINISHED SEASON", season
 

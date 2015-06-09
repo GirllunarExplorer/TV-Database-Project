@@ -36,10 +36,9 @@ def sql_TV_db(file_path):
                         episode_num = episode_sub_list[0]
                         long_episodes = episode_num.split("-", 1)
                         episode_name = episode_sub_list[1][0:-4]
-                        print "working on " + " " + tv_show + " " + episode_name
 
                         for epi in long_episodes:
-                            print "Episode {0} from TV show {1}".format(epi, tv_show)
+                            print "Working on Episode {0} - {1} from TV show {1}".format(epi, episode_name, tv_show)
                             c.execute("INSERT INTO Television VALUES (?,?,?,?,?)", (tv_show.decode('utf-8'), season, epi.decode('utf-8'), episode_name.decode('utf-8'), 0))
                             conn.commit()
 
