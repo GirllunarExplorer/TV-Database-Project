@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-__author__ = 'tracyrohlin'
+__author__ = 'GirlLunarExplorer'
 
 import tvdb_api, sqlite3
 from pytvdbapi import api
