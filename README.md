@@ -14,6 +14,7 @@ TV_DB_structure.py creates the initial database.  It takes the folder where all 
 TV_Search.py searches through the database and finds mismatches between what TVDB has in their database and what the user has in their folder.
 
 First it searches by TV show and asks the user if the show description matches the show they have.  This is to prevent searching TVDB for the wrong show.
+        
     python TV_Search.py 
    
     >>> Currently working on Helix.
